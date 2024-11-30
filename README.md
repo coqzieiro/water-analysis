@@ -1,2 +1,2 @@
 # water-analysis
-Um trabalho analíticos sobre as características da água e os critérios para potabilidade.
+Um trabalho analítico sobre as características físico-químicas da água e os critérios para potabilidade.
